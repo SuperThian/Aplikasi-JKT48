@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="normal">normal</style>
+
+    <style name="content">content</style>
+
+    <style name="heading">heading</style>
+</resources>

@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">JKT 48</string>
+    <string name="home_page">Idol</string>
+    <string name="about_page">About</string>
+    <string name="desc_page">Idol Description</string>
+    <string name="idol_name">Idol Name</string>
+    <string name="Jikoshoukai">Jiko dulu kak</string>
+    <string name="info">Rawwrrrrr…</string>
+    <string name="img_splashscreen">img_splashscreen</string>
+
+    <string-array name="data_names">
+        <item>Zee</item>
+        <item>Christy</item>
+        <item>Gracia</item>
+        <item>Muthe</item>
+        <item>Adel</item>
+        <item>Kathrina</item>
+        <item>Marsha</item>
+        <item>Lulu</item>
+        <item>Shani</item>
+        <item>Callie</item>
+    </string-array>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="todo"></string>
+
+    <string-array name="desc_jiko">
+        <item>Si gadis tomboi yang semangatnya meletup-letup! Panggil aku Zee!</item>
+        <item>Peduli dan berbaik hati, siapakah dia? Chris.. (ty!) Halo semuanya aku Christy.</item>
+        <item>Senyumku terekam jelas dalam ingatanmu seperti foto dengan sejuta warna. Namaku Gracia, always smile! Sekali lagi? (Gracia!)</item>
+        <item>Dengan kelincahanku, aku akan menari setiap hari! Panggil aku Mu-Mu-Mu-Mu-the!</item>
+        <item>Bagaikan kucing yang kalem tapi akan selalu memikat hati kamu! Halo semuanya aku Adel!</item>
+        <item>Never miss a chance to be a star. Halo semua aku Kathrina.</item>
+        <item>Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku ya! Halo aku Marsha!</item>
+        <item>Terang seperti bulan, bersinar seperti bintang. Halo aku Lulu!</item>
+        <item>Semanis coklat selembut sutra. Halo aku Shani.</item>
+        <item>Si beruang madu, penyuka madu! Hai semuanya aku Callie!</item>
+    </string-array>
+
+    <string-array name="jiko">
+        <item>"Si gadis tomboi yang semangatnya meletup-letup! Panggil aku Zee!"</item>
+        <item>"Peduli dan berbaik hati, siapakah dia? Chris.. (ty!) Halo semuanya aku Christy."</item>
+        <item>"Senyumku terekam jelas dalam ingatanmu seperti foto dengan sejuta warna. Namaku Gracia, always smile! Sekali lagi? (Gracia!)"</item>
+        <item>"Dengan kelincahanku, aku akan menari setiap hari! Panggil aku Mu-Mu-Mu-Mu-the!"</item>
+        <item>"Bagaikan kucing yang kalem tapi akan selalu memikat hati kamu! Halo semuanya aku Adel!"</item>
+        <item>"Never miss a chance to be a star. Halo semua aku Kathrina."</item>
+        <item>"Seperti pizza yang selalu dinanti-nantikan semua orang, selalu nantikan aku ya! Halo aku Marsha!"</item>
+        <item>"Terang seperti bulan, bersinar seperti bintang. Halo aku Lulu!"</item>
+        <item>"Semanis coklat selembut sutra. Halo aku Shani."</item>
+        <item>"Si beruang madu, penyuka madu! Hai semuanya aku Callie!"</item>
+    </string-array>
+
+    <string-array name="info">
+        <item>Nama Lengkap      : Azizi Shafaa Asadel
+            \nNama Panggilan	: Zee, Azizi, Zizoy, Zoya
+            \nKelahiran		    : Jakarta, 16 Mei 2004
+            \nGen			    : 7
+            \nTanggal Bergabung	: 29 September 2018
+        </item>
+
+        <item>Nama Lengkap	    : Angelina Christy
+            \nNama Panggilan	: Christy, Angel, Kitoy, Toya
+            \nKelahiran		    : Jakarta, 5 Desember 2005
+            \nGen			    : 7
+            \nTanggal Bergabung	: 29 September 2018
+        </item>
+
+        <item>Nama Lengkap	    : Shania Gracia
+            \nNama Panggilan    : Gracia, Gre
+            \nKelahiran		    : Jakarta, 31 Agustus 1999
+            \nGen			    : 3
+            \nTanggal Bergabung	: 15 Maret 2014
+        </item>
+
+        <item>Nama Lengkap	    : Mutiara Azzahra Umandana
+            \nNama Panggilan	: Muthe, Mumuchang
+            \nKelahiran	    	: Jakarta, 12 Juli 2004
+            \nGen			    : 7
+            \nTanggal Bergabung	: 29 September 2018
+        </item>
+
+        <item>Nama Lengkap	    : Reva Fidela Adel Pantjoro
+            \nNama Panggilan	: Adel, Dedel, Reva
+            \nKelahiran	    	: Jakarta, 14 Juli 2006
+            \nGen			    : 8
+            \nTanggal Bergabung	: 27 April 2019
+        </item>
+
+        <item>Nama Lengkap		: Kathrina Irene Indarto Putri
+            \nNama Panggilan	: Kathrina, Kathrin, Atin, Bokem
+            \nKelahiran		    : Bekasi, 26 Juli 2006
+            \nGen			    : 9
+            \nTanggal Bergabung	: 1 Desember 2019
+        </item>
+
+        <item>Nama Lengkap      : Marsha Lenathea Lapian
+            \nNama Panggilan    : Marsha, Matcha, Anime, Maeng
+            \nKelahiran		    : Jakarta, 9 Januari 2006
+            \nGen			    : 9
+            \nTanggal Bergabung	: 1 Desember 2019
+        </item>
+
+        <item>Nama Lengkap		: Lulu Azkiya Salsabila
+            \nNama Panggilan	: Lulu, Salsa
+            \nKelahiran		    : Serang, 23 Oktober 2002
+            \nGen	            : 8
+            \nTanggal Bergabung	: 27 April 2019
+        </item>
+
+        <item>Nama Lengkap		: Shani Indira Natio
+            \nNama Panggilan	: Shani
+            \nKelahiran		    : Kebumen, 5 Oktober 1998
+            \nGen			    : 3
+            \nTanggal Bergabung	: 15 Maret 2014
+        </item>
+
+        <item>Nama Lengkap		: Callista Alifia Wardhana
+            \nNama Panggilan	: Callie, Keli
+            \nKelahiran		    : Jakarta, 8 Agustus 2005
+            \nGen			    : 10
+            \nTanggal Bergabung	: 18 Desember 2021
+        </item>
+    </string-array>
+
+    <integer-array name="data_photos">
+        <item>@drawable/zee</item>
+        <item>@drawable/christy</item>
+        <item>@drawable/gracia</item>
+        <item>@drawable/muthe</item>
+        <item>@drawable/adel</item>
+        <item>@drawable/kathrina</item>
+        <item>@drawable/marsha</item>
+        <item>@drawable/lulu</item>
+        <item>@drawable/shani</item>
+        <item>@drawable/callie</item>
+    </integer-array>
+
+</resources>
